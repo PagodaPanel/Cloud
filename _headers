@@ -1,0 +1,5 @@
+/panel/get_plugin_list
+  Content-Type: application/json
+
+/Auth/GetAuthToken
+  Content-Type: application/json
